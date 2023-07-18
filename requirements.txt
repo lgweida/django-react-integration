@@ -1,6 +1,15 @@
-asgiref==3.6.0
-gunicorn
 Django==3.2.16
+asgiref==3.6.0
+bs4
+datetime
+django-cors-headers
+djangorestframework
+gunicorn
+lxml
+pandas
 pytz==2022.7.1
+requests
 sqlparse==0.4.3
+ta
 whitenoise==6.3.0
+yfinance
